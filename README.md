@@ -1,0 +1,2 @@
+# solidus-protocol
+solidus cash
